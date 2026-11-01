@@ -16,20 +16,20 @@ export const translations = {
       greeting: 'Hola, soy',
       name: 'Brian',
       title1: 'Desarrollador',
-      title2: 'Full Stack .NET',
+      title2: '.NET',
       subtitle:
-        'Especializado en .NET Core y C#. Desarrollo sistemas escalables y de alto rendimiento, con foco en APIs REST, asincronía y optimización de consultas en SQL Server.',
+        'Especializado en .NET Core y C#. Desarrollo sistemas escalables y de alto rendimiento, con foco en APIs REST, asincronía y gestión de bases de datos en SQL Server.',
       downloadCV: 'Descargar CV',
       viewProjects: 'Ver proyectos',
     },
     about: {
       heading: 'Sobre mí',
-      headline: 'Backend .NET para sistemas de alto rendimiento',
+      headline: 'FullStack .NET para sistemas de alto rendimiento',
       p1: 'Soy desarrollador Full Stack con especialización en .NET Core y experiencia en sistemas escalables y de alto rendimiento. Actualmente trabajo en',
       p1company: 'Traditum',
       p1end:
         ', donde desarrollo APIs y lógica de negocio con ASP.NET Core y C#, sobre sistemas productivos en los que aplico mejoras de performance, mantenimiento evolutivo e integraciones complejas.',
-      p2: 'Mi fuerte es el backend con C#, asincronía (async/await), LINQ y optimización de consultas en SQL Server. Conozco arquitecturas modernas, APIs REST, patrones de diseño y desarrollo fullstack con React, y estoy familiarizado con entornos cloud y bases de datos relacionales y NoSQL. Desarrollo soluciones end-to-end, desde el diseño hasta la implementación en producción.',
+      p2: 'Mi fuerte es el backend con C#, asincronía (async/await), LINQ y gestión de bases de datos en SQL Server. Conozco arquitecturas modernas, APIs REST, patrones de diseño y desarrollo fullstack con React, y estoy familiarizado con entornos cloud y bases de datos relacionales y NoSQL. Desarrollo soluciones end-to-end, desde el diseño hasta la implementación en producción.',
       stats: [
         { value: '+2', label: 'Años de experiencia' },
         { value: '.NET', label: 'Especialización' },
@@ -62,7 +62,7 @@ export const translations = {
         {
           label: 'Backend',
           subLabel: 'APIs y lógica de negocio',
-          skills: ['.NET Core', 'ASP.NET Core', 'C#', 'Entity Framework Core', 'LINQ', 'async/await', 'APIs REST'],
+          skills: ['.NET Core', 'ASP.NET Core', 'C#', 'Entity Framework Core', 'LINQ', 'APIs REST'],
         },
         {
           label: 'Bases de datos',
@@ -168,21 +168,21 @@ export const translations = {
     hero: {
       greeting: "Hi, I'm",
       name: 'Brian',
-      title1: 'Full Stack',
-      title2: '.NET Developer',
+      title1: '.NET',
+      title2: 'Developer',
       subtitle:
-        'Specialized in .NET Core and C#. I build scalable, high-performance systems, focused on REST APIs, asynchronous programming and SQL Server query optimization.',
+        'Specialized in .NET Core and C#. I build scalable, high-performance systems, focused on REST APIs, asynchronous programming and SQL Server database management.',
       downloadCV: 'Download CV',
       viewProjects: 'View projects',
     },
     about: {
       heading: 'About me',
-      headline: '.NET backend for high-performance systems',
+      headline: 'FullStack .NET for high-performance systems',
       p1: "I'm a Full Stack developer specialized in .NET Core, with experience in scalable, high-performance systems. I currently work at",
       p1company: 'Traditum',
       p1end:
         ', where I build APIs and business logic with ASP.NET Core and C# on production systems, delivering performance improvements, ongoing maintenance and complex integrations.',
-      p2: 'My strength is backend work with C#, asynchronous programming (async/await), LINQ and SQL Server query optimization. I know modern architectures, REST APIs, design patterns and fullstack development with React, and I am familiar with cloud environments and relational and NoSQL databases. I deliver end-to-end solutions, from design to production.',
+      p2: 'My strength is backend work with C#, asynchronous programming (async/await), LINQ and SQL Server database management. I know modern architectures, REST APIs, design patterns and fullstack development with React, and I am familiar with cloud environments and relational and NoSQL databases. I deliver end-to-end solutions, from design to production.',
       stats: [
         { value: '+2', label: 'Years of experience' },
         { value: '.NET', label: 'Specialization' },
@@ -215,7 +215,7 @@ export const translations = {
         {
           label: 'Backend',
           subLabel: 'APIs and business logic',
-          skills: ['.NET Core', 'ASP.NET Core', 'C#', 'Entity Framework Core', 'LINQ', 'async/await', 'REST APIs'],
+          skills: ['.NET Core', 'ASP.NET Core', 'C#', 'Entity Framework Core', 'LINQ', 'REST APIs'],
         },
         {
           label: 'Databases',
